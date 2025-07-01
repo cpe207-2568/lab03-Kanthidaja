@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Lexend+Giga:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poiret+One&family=Rubik+Dirt&display=swap');
+
+.rubik-dirt {
+  font-family: "Rubik Dirt", cursive;
+  font-weight: 400;
+}
+
+.cal-sans-regular {
+  font-family: "Cal Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.custom-navbar {
+  background-color: #f4d2ec;
+}
+
+
